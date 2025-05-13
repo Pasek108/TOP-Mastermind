@@ -21,6 +21,7 @@
   * [Features](#features)
   * [Technologies](#technologies)
   * [Setup](#setup)
+  * [Acknowledgements](#acknowledgements)
 * [Details :scroll:](#details-scroll)
   * [User interface](#user-interface)
   * [Swaszek algorithm](#swaszek-algorithm)
@@ -74,6 +75,9 @@ Programs:
 - Download this repository
 - Open folder in terminal
 - Run  `bundle install` and `ruby ./lib/main.rb`
+
+## Acknowledgements
+- [Reddit - Swaszek algorithm](https://www.reddit.com/r/theodinproject/comments/xmvyyw/is_mastermind_this_complicated/)
 
 <br>
 
